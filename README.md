@@ -5,3 +5,10 @@ It is typically used to test how well a program can withstand malformed and pote
 
 https://github.com/aoh/radamsa
 
+# Usage
+
+None at the moment!
+
+# Change log
+
+No version! Just the idea!
